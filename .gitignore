@@ -1,0 +1,13 @@
+# Binaries and build artifacts
+bin/
+*.exe
+*.test
+
+# Environment and IDE
+.env
+.idea/
+.vscode/
+
+# Logs and OS files
+*.log
+.DS_Store
